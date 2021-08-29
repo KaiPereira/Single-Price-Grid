@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    width: 35%;
+    height: 50%;
+    background-color: black;
+}
+.join {
+    width: 100%;
+    height: 50%;
+    background-color: rgb(233, 227, 227);
+}
+.bottom {
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+.subscribe {
+    width: 50%;
+    height: 100%;
+    background-color: hsl(179, 62%, 43%);
+}
+.why-us {
+    width: 50%;
+    height: 100%;
+    background-color: hsl(179, 62%, 49%);
+}
+
+
+
